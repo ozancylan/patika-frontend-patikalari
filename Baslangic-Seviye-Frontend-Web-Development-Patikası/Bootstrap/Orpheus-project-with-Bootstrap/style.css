@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Comfortaa';
+}
+body {
+    background-color: #E9ECEF ;
+}
+
+
+
+
+/***************************************************NAVBAR*******************************************************/
+header {
+    background-color:#256D85 ;
+}
+
+.navbar-brand {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    padding: 2px 4px;
+    border-left: 5px solid #E9ECEF;
+}
+
+.navbar-brand:hover {
+    border-left: 5px solid #181818;
+    background-color: #E9ECEF;
+    -webkit-box-shadow: 7px 10px 15px -3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 7px 10px 15px -3px rgba(0,0,0,0.75);
+    box-shadow: 7px 10px 15px -3px rgba(0,0,0,0.75);
+}
+
+.nav-link {
+    color: #DFF6FF;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    margin: 0px 5px;
+}
+

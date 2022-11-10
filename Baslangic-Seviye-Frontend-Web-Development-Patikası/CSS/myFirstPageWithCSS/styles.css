@@ -1,0 +1,162 @@
+.container {
+  margin: 2px;
+}
+.main-pic {
+  text-align: center;
+  margin-top: 10px;
+}
+  /* buttons & links */
+.nav-links {    
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #112D4E;
+    text-decoration: none;
+  }
+.nav-links>a:hover {
+  border: 1px solid #112D4E;
+}
+  /* buttons & links */
+
+
+article {
+    color: #112D4E;
+    text-align: center;
+    display: inline-block;
+    margin: 5px 0px;
+  }
+
+
+  /* buttons & links */
+.headings {
+  padding: 2px 5px;
+  border: 1px solid #3F72AF;
+  display: inline;
+  border-radius: 5px;
+  background-color: white;
+  color: #FF6363;
+}
+.headings:hover {
+  font-family: 'Raleway' , sans-serif;
+  font-weight: 500;
+  font-size: 20.5px;
+  color: white;
+  background-color: #FF6363;
+}
+  /* buttons & links */
+
+.head-row {
+  background-color: #76BA99 ;
+  border-left: 3px ridge #3F72AF;
+  position: sticky;
+}
+.head-row>h1 {
+  border: 1px solid #219F94;
+  display: inline;
+  background-color: white;
+  font-family: 'Roboto Condensed', sans-serif;
+  padding: 2px 5px;
+  border-radius: 5px;
+
+} 
+
+.pictures {
+  text-align: center;
+  border-radius: 5px;
+  padding-top: 5px;
+  border-top: 2px solid #112D4E;
+  margin-bottom: 5px;
+}
+
+p {
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: #FFFDA2;
+  padding: 0.1% 5%  ;
+}
+
+/* navbar & buttons */
+.navbar {
+  width: 100%;
+  margin-top: 5px;
+  text-align: center;
+  background-color: #219F94;
+  position: fixed;
+  top: -1px;
+}
+.navbar>a {
+  text-decoration: none;
+  font-size: 15px;
+  padding: 2px 5px;
+  background-color: white;
+  border: 0.1px solid #219F94;
+  border-radius: 3px;
+  color: #FF6363;;  
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+}
+.navbar>a:hover {
+  font-family: 'Raleway', sans-serif;
+  font-size: 15.5px;
+  color: white;
+  background-color: #FF6363;
+  font-weight: bolder;
+}
+/* navbar & buttons */
+
+/* source(aside) & buttons */
+.source {
+  text-align: center;
+  border-left: 3px ridge #FF6363;
+  position: fixed;
+    top: 10px;
+    width: max-content;
+}
+.aside-nav {
+  margin-top: 0%;
+  top: 0px;
+}
+.aside-nav>ul {
+  list-style-type: none;
+  padding-left: 0%;
+  text-align: center;
+
+}
+.aside-nav>ul>li {
+  text-align: left;
+  margin: 44px 0px;
+  text-align: center;
+}
+.fa-wikipedia-w {
+  font-size: 30px;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 50px;
+  margin-top: 5px;
+  background-color: white;
+  color: #FF6363;
+}
+.fa-wikipedia-w:hover {
+  font-size: 30px;
+  padding: 5px;
+  border: 1px solid white;
+  border-radius: 50px;
+  margin-top: 5px;
+  background-color: #FF6363;
+  color: white;
+}
+.aside-nav>ul>li>a{
+  text-decoration:none;
+  font-family: 'Raleway' , sans-serif;
+  color: #FF6363;;
+  padding: 2px 5px;
+  border: 1px solid #FF6363;
+  background-color: white;
+  border-radius: 3px;
+  margin: 0 25px;
+}
+
+.aside-nav>ul>li>a:hover {
+  font-weight: 500;
+  color: white;
+  background-color: #FF6363;
+}
+/* source(aside) & buttons */
